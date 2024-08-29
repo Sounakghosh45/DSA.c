@@ -15,4 +15,4 @@ int main(){
 		}
 		printf("The sum of array elemet is:%d",sum);
 }
-//hiii
+
