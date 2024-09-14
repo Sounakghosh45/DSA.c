@@ -48,7 +48,7 @@ int main(){
                 }
                 break;
             case 2:
-                printf("Enter the number of the element to push:");
+                printf("Enter the number of the element to pop:");
                 scanf("%d",&b);
                 for(int i=0;i<b;i++){
                     pop();
